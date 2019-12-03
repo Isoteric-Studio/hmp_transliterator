@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Транслитератор</string>
+<string name="action_about">Қосымша туралы</string>
+<string name="btn_convert"> КОНВЕРТТЕУ </string>
+<string name="enter_your_text">МӘТІНДІ ЕНГІЗІҢІЗ</string>
+    <string name="text_is_copied_to_the_clipboard">Мәтін жедел жадыда сақталынды</string>
+    <string name="enter_text">Мәтінді теріңіз!</string>
+
+<string name="title_activity_about_app">Бағдарлама туралы</string>
+<string name="about_app_title">ТРАНСЛИТЕРАТОР</string>
+<string name="about_app_developedin">Құрып жасаған </string>
+<string name="about_app_copyright">© HoteyMaksProjects, 2019. \n ComSec атынан HoteyMaksScripts™. \n Барлық құқықтар қорғалған.</string>
+</resources>

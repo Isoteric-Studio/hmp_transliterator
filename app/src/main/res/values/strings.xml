@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Транслитератор</string>
+    <string name="action_about">О приложении</string>
+    <string name="btn_convert"> КОНВЕРТИРОВАТЬ </string>
+    <string name="enter_your_text">ВВЕДИТЕ ВАШ ТЕКСТ</string>
+    <string name="text_is_copied_to_the_clipboard">Текст скопирован в буфер обмена</string>
+    <string name="enter_text">Введите текст!</string>
+
+    <string name="title_activity_about_app">О приложении</string>
+    <string name="about_app_title">ТРАНСЛИТЕРАТОР</string>
+    <string name="about_app_developedin">Разработано в</string>
+    <string name="about_app_copyright">© HoteyMaksProjects, 2019. \n HoteyMaksScripts от лица ComSec™. \n Все права защищены.</string>
+</resources>

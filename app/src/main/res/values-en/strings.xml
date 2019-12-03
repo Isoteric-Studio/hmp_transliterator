@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Transliterator</string>
+<string name="action_about">About</string>
+<string name="btn_convert"> CONVERT </string>
+<string name="enter_your_text">ENTER YOUR TEXT</string>
+<string name="text_is_copied_to_the_clipboard">Text copied to the clipboard</string>
+    <string name="enter_text">Enter the text!</string>
+
+<string name="title_activity_about_app">About</string>
+<string name="about_app_title">TRANSLITERATOR</string>
+<string name="about_app_developedin">Developed in </string>
+<string name="about_app_copyright">© HoteyMaksProjects, 2019. \n HoteyMaksScripts, on behalf of ComSec™. \n All rights reserved.</string>
+</resources>
